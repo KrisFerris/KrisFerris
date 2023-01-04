@@ -7,7 +7,7 @@ Inspiring Data Analyst
 * 🌍  I'm based in Honolulu, HI
 * ✉️  You can contact me at [kristopher.ferris@gmail.com](mailto:kristopher.ferris@gmail.com)
 * 🧠  I'm learning SQL & applied ML
-* 🤝  I'm open to collaborating on Anything that presents a challenge
+* 🤝  I'm open to collaborating on anything that presents a challenge
 * ⚡  Career logistician that fell in love with Python and data visualization
 
 ### Skills

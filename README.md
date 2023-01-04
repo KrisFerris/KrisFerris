@@ -4,10 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Inspiring Data Analyst
 ----------------------
 
+Hi there! I'm an aspiring data analyst with a passion for turning raw data into actionable insights. I'm constantly amazed by the power of data to shape our understanding of the world and drive meaningful change. I have a background in finance and logistics, and I've always been drawn to the intersection of these fields with data analysis. I love the challenge of taking complex data sets and distilling them into clear, concise insights that can inform strategic decision-making. In my free time, you'll find me tinkering with data visualization tools and exploring new datasets on Kaggle. I'm always looking for new opportunities to learn and grow as a data analyst, and I'm excited to be part of the GitHub community.
+
 * 🌍  I'm based in Honolulu, HI
 * ✉️  You can contact me at [kristopher.ferris@gmail.com](mailto:kristopher.ferris@gmail.com)
 * 🧠  I'm learning SQL & applied ML
-* 🤝  I'm open to collaborating on anything that presents a challenge
+* 🤝  I'm open to collaborating on Anything that presents a challenge
 * ⚡  Career logistician that fell in love with Python and data visualization
 
 ### Skills
